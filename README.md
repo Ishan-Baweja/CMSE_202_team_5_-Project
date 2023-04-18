@@ -2,7 +2,7 @@
 
 1) Research question:
 
-	- How do trends in smoking and diet cultures affect the rates of diabetes occuring in the U.S.?
+	- How Does Diabetes Relate to Factors of General Health Such as BMI, Cholestorol, Blood Pressure, Diet, Physical Activity and Smoking?
 
 
 
