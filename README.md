@@ -18,7 +18,7 @@ The data analysis was subdivided into three different datasets:
 
 ## Kaggle "Heart Disease Indicator" Dataset
 
-### Correlation Plot of Vairbles in the Dataset against Diabetes
+### Correlation Plot of Variables in the Dataset against Diabetes
 The following analysis showed that the health variables that have higher correlations with diabetes are. Running this code will result in the following significant correlations:
 
 - High Blood Pressure
