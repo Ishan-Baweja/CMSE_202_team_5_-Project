@@ -62,9 +62,13 @@ How to run this code: This project works from the top-down, start with the impor
 Divison of Work: 
 
 William: Presentation Slides, Provided code for Section 2, commented code, wrote explanations in markdown cells. Sorted out and cleaned the datasets, removed erroneous values and such
+
 Leo:
+
 Andrew:
+
 Ishan:
+
 
 
 
