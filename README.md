@@ -4,7 +4,14 @@ In simple terms, diabetes is a chronic health condition that affects how a perso
 
 
 
+The data analysis was subdivided into three different datasets:
 
+
+## Kaggle "Diabetes" Dataset
+
+
+
+## The Center for Disease Control and Prevention
 
 
 
