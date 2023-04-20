@@ -11,11 +11,12 @@ The data analysis was subdivided into three different datasets:
 
 
 
-## The Center for Disease Control and Prevention
+
+## The Center for Disease Control and Prevention Diabetes Surveillance
 
 
 
-
+## Kaggle "Heart Disease Indicator" Dataset
 
 
 
