@@ -56,10 +56,14 @@ The following piece of code uses a prediction model given a logistic regression 
 The model resulted in a prediction accuracy of 0.66, making it somewhat useful to classify patients as diabetic or not according to their different health factors.
 
 
+How to run this code: This project works from the top-down, start with the imports section, and continue to run all cells as you progress, making sure to wait that the cell has loaded before moving to the next cell. "Run all" Can work but there are sometimes issues with the cells that take longer to load.
 
 
-
-
+Divison of Work: 
+William: Provided code for Section 2, commented code, wrote explanations in markdown cells. Sorted out and cleaned the datasets, removed erroneous values and such
+Leo:
+Andrew:
+Ishan:
 
 
 
