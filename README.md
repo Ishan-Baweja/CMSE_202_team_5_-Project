@@ -8,7 +8,6 @@ The data analysis was subdivided into three different datasets:
 
 
 ## Kaggle "Diabetes" Dataset
-
 ### Cleaning the data
 0 values were inside the dataset for some variables that would not make sense. For example, "SkinThickness" had a 0 value for 1 patient which wouldn't be true. This piece of code weeded out the 0 values by dropping all the rows that had 0 values in them for variables like BMI, Skin Thickness, and Age. 
 
