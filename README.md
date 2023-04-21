@@ -9,10 +9,30 @@ The data analysis was subdivided into three different datasets:
 
 ## Kaggle "Diabetes" Dataset
 
+### Cleaning the data
+0 values were inside the dataset for some variables that would not make sense. For example, "SkinThickness" had a 0 value for 1 patient which wouldn't be true. This piece of code weeded out the 0 values by dropping all the rows that had 0 values in them for variables like BMI, Skin Thickness, and Age. 
+
+### Heatmap of Correlations &
+### Linear Regression
+This heatmap illustrates the levels of correlations among the variables in the dataset. The results were analyzed and written down below. A linear regression was also done for this dataset with the outcome variable (that being whether a patient has diabetes or not) and all other variables. This resulted in different correlation coefficients so further analysis was done to analyze the trends. 
+
+### Curve Fitting: BMI vs the Diabetes Pedigree Function
+These lines of code define a curve fit model using curve_fit from scipy. On the x-axis there is the diabetes pedigree function, which is the possibility of a person having diabetes, against BMI. Results that it tends to follow a linear trend. Limitations include the fact that most samples are clustered along low diabetes pedigree function values. 
+
+### Ordinary Least Squared Regression
+The same regression that was done with the outcome variable was done with the diabetes pedigree function. The main result to focus on here was it's correlation with BMI. 
 
 
 
 ## The Center for Disease Control and Prevention Diabetes Surveillance
+
+### Cleaning the Dataset
+Columns that didn't provide any values were found in the dataset and dropped. Variables were assigned to the different columns in order to make analysis of them later easier.
+
+### Curve Fitting
+Similar to the dataset above, a curve fitting model was used to visualize the trends found in the dataset. Specifically, this dataset was used to looked into the relationship of diabetes over the years and try to predict future trends. Results are shown below the three plots.  
+
+
 
 
 
