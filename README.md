@@ -48,6 +48,13 @@ The following piece of code uses a prediction model given a logistic regression 
 - Body Mass Index (as a continuous variable)
 - Heart Disease or Attack (0 for no; 1 for yes)
 The model resulted in a prediction accuracy of 0.66, making it somewhat useful to classify patients as diabetic or not according to their different health factors.
+### SVM Classifier to Predict Diabetes Based on Health Indicators
+Multiple columns that were not of statistical interest (according to low correlation coefficients) were dropped as well as any rows that had "0" values for diabetes. This was done so the model would predict only people who were diagnosed with diabetes according to these health parameters:
+- HighBP
+- HighChol
+- BMI
+- GenHlth (a scale of 1-5 that categorizes patients according to their relative "healthiness"; 1 being low levels of health and 5 being high levels of health)
+The model showed an accuracy of ~76%, implying that the health parameters used are good predictors for diabetes. 
 
 ## How to run this code: 
 This project works from the top-down, start with the imports section, and continue to run all cells as you progress, making sure to wait that the cell has loaded before moving to the next cell. "Run all" can work but there are sometimes issues with the cells that take longer to load. In that case, you can run dataset specific-cells to visualize the results found for one of the three datasets used here. 
