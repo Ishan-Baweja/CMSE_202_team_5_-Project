@@ -52,10 +52,13 @@ The model resulted in a prediction accuracy of 0.66, making it somewhat useful t
 ## How to run this code: 
 This project works from the top-down, start with the imports section, and continue to run all cells as you progress, making sure to wait that the cell has loaded before moving to the next cell. "Run all" can work but there are sometimes issues with the cells that take longer to load. In that case, you can run dataset specific-cells to visualize the results found for one of the three datasets used here. 
 ## Divison of Work: 
-William Hannah: Presentation slides, provided code for dataset 2, commented code, wrote explanations in markdown cells. Sorted out and cleaned the datasets, removed erroneous values and such.
-Leo Pereira Sanabria: Presentation slides, provided multivariate regression for dataset 1 and prediction model for dataset 3, and wrote README file.
-Andrew:
-Ishan:
+- William Hannah: Presentation slides, provided code for dataset 2, commented code, wrote explanations in markdown cells. Sorted out and cleaned the datasets, removed erroneous values and such.
+
+- Leo Pereira Sanabria: Presentation slides, provided multivariate regression for dataset 1 and prediction model for dataset 3, and wrote README file.
+
+- Andrew:
+
+- Ishan:
 
 
 
