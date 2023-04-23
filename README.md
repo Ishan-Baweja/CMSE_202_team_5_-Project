@@ -63,9 +63,9 @@ This project works from the top-down, start with the imports section, and contin
 
 - Leo Pereira Sanabria: Presentation slides, provided multivariate regression for dataset 1 and prediction model for dataset 3, and wrote README file.
 
-- Ishan Baweja: Setup the Repositroy and Google Slides, created several Presentation Slides, Imported all Data sets, creaetd prediction model for the first dataset and assisted in coding for regression models
+- Ishan Baweja: Setup the Repositroy and Google Slides, created several Presentation Slides, Imported all Data sets, creaeted prediction model for the first dataset and assisted in coding for regression models
 
-- Andrew:
+- Andrew: Did the SVM model for the last dataset, added correlation matricies, did curve fitting for first dataset, worked on presentation slides. Cleaned up codebase, renamed variables and removed redundant dataframes/variables.
 
 
 
